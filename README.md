@@ -1,0 +1,2 @@
+# Paralell_Homework
+ Ising
